@@ -1,4 +1,6 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=tebruno99)](https://github.com/chrisbier/github-profile-trophy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tebruno99&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **tebruno99/tebruno99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
